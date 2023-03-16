@@ -1,0 +1,22 @@
+<?php
+return [
+    'add_playlist_failed' => 'The song already exist in the playlist',
+    'error_500' => 'Some error occurred, please try agian',
+    'delete_success' => 'You are delete success',
+    'create_success' => 'You are create success',
+    'update_success' => 'You are update success',
+    'update_failed' => 'You are update failed',
+    'error_foreign_key' => 'You are delete failed, Please double-check and make sure there are no songs.',
+    'login_failed' => 'Email or password correct.',
+    'login_dont_permission' => "You are don't have permission",
+    'error_download' => 'Your account does not have enough funds to pay, please more to download',
+    'send_mail_error' => 'Your email is incorrect',
+    'add_playlist_success' => 'You have successfully added a new song to the playlist',
+    'delete_playlist_success' => 'You have successfully delete a song to the playlist',
+    'download_failed' => 'Your are download failed, please try again',
+    'password_failed' => 'Password is not correct.',
+    'add_money_success' => 'You have successfully recharged',
+    'add_money_failed' => 'you have failed to recharge',
+    'password_incorrect' => 'The old password is incorrect',
+    'send_mail_failed' => 'Send mail error',
+];
